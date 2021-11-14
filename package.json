@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codm/node-lox-ws-api.git"
+    "url": "git+https://github.com/arsiesis/node-lox-ws-api.git"
   },
   "keywords": [
     "Loxone",
